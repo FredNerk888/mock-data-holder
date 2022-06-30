@@ -28,8 +28,4 @@
 		<ProjectReference Include="..\CDR.DataHolder.Domain\CDR.DataHolder.Domain.csproj" />
 	</ItemGroup>
 
-	<ItemGroup>
-		<Folder Include="Migrations\" />
-	</ItemGroup>
-
 </Project>
